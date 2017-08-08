@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle plug-sqlog",
+        "command": "plug-sqlog:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "plug-sqlog",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "plug-sqlog:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
