@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "plug-sqlog:toggle"
+    "ctrl-alt-cmd-s": "plug-sqlog:toggle"
   }
 }

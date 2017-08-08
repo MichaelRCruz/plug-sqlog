@@ -17,6 +17,14 @@
             {
               "label": "Toggle",
               "command": "plug-sqlog:toggle"
+            },
+            {
+              "label": "Text",
+              "command": "plug-sqlog:toggle"
+            },
+            {
+              "label": "Snippet",
+              "command": "plug-sqlog:toggle"
             }
           ]
         }
