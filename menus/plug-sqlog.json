@@ -4,6 +4,10 @@
       {
         "label": "Write Diary",
         "command": "plug-sqlog:writeDiary"
+      },
+      {
+        "label": "Test Function",
+        "command": "plug-sqlog:testFunction"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Write Diary",
               "command": "plug-sqlog:writeDiary"
+            },
+            {
+              "label": "Test Function",
+              "command": "plug-sqlog:testFunction"
             }
           ]
         }
