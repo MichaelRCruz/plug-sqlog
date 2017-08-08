@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "plug-sqlog:toggle"
+    "atom-workspace": "plug-sqlog:writeDiary"
   },
   "repository": "https://github.com/atom/plug-sqlog",
   "license": "MIT",

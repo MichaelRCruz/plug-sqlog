@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle plug-sqlog",
-        "command": "plug-sqlog:toggle"
+        "label": "Write Diary",
+        "command": "plug-sqlog:writeDiary"
       }
     ]
   },
@@ -15,16 +15,8 @@
           "label": "plug-sqlog",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "plug-sqlog:toggle"
-            },
-            {
-              "label": "Text",
-              "command": "plug-sqlog:toggle"
-            },
-            {
-              "label": "Snippet",
-              "command": "plug-sqlog:toggle"
+              "label": "Write Diary",
+              "command": "plug-sqlog:writeDiary"
             }
           ]
         }

@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-cmd-s": "plug-sqlog:toggle"
+    "ctrl-alt-cmd-w": "plug-sqlog:writeDiary"
   }
 }
